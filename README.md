@@ -1,7 +1,5 @@
 # PyTorch_1
-## Rice Type Classification Model Architectures and Accuracies
-
-This notebook explores three different simple neural network architectures for classifying rice types and evaluates their performance.
+## Rice Type Classification
 
 ### Model Architectures:
 
@@ -18,7 +16,7 @@ All models were trained for 10 epochs using Adam optimizer and Binary Cross-Entr
 
 
 # PyTorch2
-## Animal Face Classification with PyTorch
+## Animal Face Classification
 
 ### Model Architecture
 

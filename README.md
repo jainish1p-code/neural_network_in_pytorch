@@ -1,9 +1,9 @@
 # PyTorch_1
-### Rice Type Classification Model Architectures and Accuracies
+## Rice Type Classification Model Architectures and Accuracies
 
 This notebook explores three different simple neural network architectures for classifying rice types and evaluates their performance.
 
-**Model Architectures:**
+### Model Architectures:
 
 1.  **MyModel1 (Single Layer - 5 Neurons):**
     *   **Testing Accuracy:** 98.42%
@@ -18,12 +18,12 @@ All models were trained for 10 epochs using Adam optimizer and Binary Cross-Entr
 
 
 # PyTorch2
-# Animal Face Classification with PyTorch
+## Animal Face Classification with PyTorch
 
-## Model Architecture
+### Model Architecture
 
 A custom Convolutional Neural Network (CNN) with 4.28M parameters is used, comprising 3 convolutional layers, ReLU activations, max-pooling layers, and fully connected layers for classification.
 
-## Accuracy
+### Accuracy
 
 The model achieved a test accuracy of approximately 94.75% after 10 epochs of training. The training and validation loss/accuracy plots are available in the notebook for detailed analysis.
